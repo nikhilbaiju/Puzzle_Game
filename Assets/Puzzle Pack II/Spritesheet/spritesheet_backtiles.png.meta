@@ -1,0 +1,7294 @@
+fileFormatVersion: 2
+guid: 4deac8cb01775bf4abcdde0daafec295
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_backtiles_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca10eb3933ce14a832cf55ddb33770
+      internalID: 339102453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14b3a8f883ad248a6696cda1da83f7
+      internalID: -1085089063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868286a07850b944978ce70087e304e
+      internalID: 177694436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343aca062f47954f9a4f5c08bd80dda
+      internalID: 357441480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c740c87809ac42b88a092cff56365
+      internalID: 85136129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212664f977d9234a8136f01e1ef97ec
+      internalID: -1210301334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c19a52863821e4f8da64abd5d887eb
+      internalID: -10312948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5fb6f1b3a8a0b43acaa7ed92b8c4a8
+      internalID: -980098365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb6a9fa67117fc4185b6fd5397e076e
+      internalID: 1864744141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b8ac8caf222d4bb1b5015828b81c4
+      internalID: 365705107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5158487bc10742966648a38dbd964
+      internalID: 2002351414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b10d828b510064cbd9a2b11be7cb7a
+      internalID: 2005570297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e016073c994adc4b93f94a09e817ade
+      internalID: 1781181962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f624f69a78534789b7ee50e990b4b
+      internalID: -402803092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadde7e20481a74a9e470361898545e
+      internalID: -1140794429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c31d9cc620e8f4aa8a2cab6502fb8d
+      internalID: -1782201410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f8d3c93da90124fa2f61fd4037f28b
+      internalID: -883508507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ec9bac1309c643b1270d6dfb94255
+      internalID: -899392704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610eb0f868df6c478e3d7648ffefd7a
+      internalID: 1502961552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f772824295c804449675a0a15d783da
+      internalID: -971432567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc63686edae9e5b409a0332abd361a13
+      internalID: -387420088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d463081db9d046bc6ce7d8c5c4692
+      internalID: -766367296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41495feb6241048bbf40c7f2077f97
+      internalID: -1115798280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc702d0f1e90b594a9a782ef7abdbceb
+      internalID: -539332789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fc7d1c710b6fe4f901aa6b71678471
+      internalID: 1591583212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cfba74255578d4bb19e18c184ebaec
+      internalID: 2123934930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7809c483707e04eae8d4ab3fb744ea
+      internalID: -763747529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cff082c5d66b04e949893b710829d8
+      internalID: 2077477525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d7e7e188b9a5418e9a8edab0c31db
+      internalID: -132458203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f969c7ca621c046bbc429dafde3160
+      internalID: 699106917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7199469a8b2c40a8527698aa7cb5b
+      internalID: -1351488432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d4214daf55b5f428eab6d1b18f30fb
+      internalID: 846146168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7d8b2d5357fb49be4f7b34ab5a3d7
+      internalID: -269830702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c05552a053d7e49b0531d166363f0b
+      internalID: 2162483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171717777adbe9948bfee05ac3481866
+      internalID: -794280866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e70da28301afe42a6583e9adf723ae
+      internalID: 1242633839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee690de55d70e40be387d09a51c0ba
+      internalID: 1947249029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da90d513ff287a4cba705fcec509426
+      internalID: 817041920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572babe7bc00e64a95c3e3c4cff67fd
+      internalID: 1430107561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3766d738686e7c43bbcf5c2c1ffe7c3
+      internalID: -1325224847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ebab85ca4285445a880ee25f233337
+      internalID: 789750741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41917c8ce0367ce42b46aea5a7ecc8ff
+      internalID: -1383346678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704f2a30c424dce42804254b46f1f4c7
+      internalID: 834153329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3193e1ec03c434448c604a8eabb4964
+      internalID: -1939346496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa77db1a74da544a4a3e6f76181726
+      internalID: -1001786363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6ba6208dcf7a43ad229c1d35a7188
+      internalID: 1535278593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082884e3280a3f46b78ab07d52044cf
+      internalID: -810159904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebcf5cd97fe6ef4bbc4a069e5518716
+      internalID: -2140819988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0f94d25fea6647bdab2e22d51cbda
+      internalID: -966893234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_49
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17876b0498158d458edf73700ba333a
+      internalID: -437374685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95232dbe1e80a448afb8ef90374143
+      internalID: 125936453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1320695f9316240bc32938bfb08294
+      internalID: 973168460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc394b5b2a502c4fa1cda344145cdce
+      internalID: 301703705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e849d6bad61cb4399ba83f0ccea547
+      internalID: 635649276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602bda57c6a8a1145b42c0dbf90ee396
+      internalID: -252006180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628aa83857b5cc84d98b36062724a842
+      internalID: -1659332696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231cb2a33e77cf4facbb129bd7b578d
+      internalID: -102413167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba7f4e067065244a17e1e14bce7b8c
+      internalID: -1583986554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abe7081526dcd64295138de5f66a9ac
+      internalID: 62129981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6367a0ef812e546b694e3925b96f4d
+      internalID: -1334646283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576d0cc292bf634bb2c2cd989bd299b
+      internalID: 1337349223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76cb075a8847094b8cf959b9f4e80eb
+      internalID: 1723812466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2461b95cfb70040a33a36694ec9982
+      internalID: -588799859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34724ef9352903948be4fd9045f0c216
+      internalID: -237082184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de389c4cd8e702642b48b5313244f890
+      internalID: 2038027757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a324fbb400eb67c4d9a8ea96796ccf39
+      internalID: 1235003900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e7f8d5db4dc446b1ef0e049abc78c
+      internalID: -1806101859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a02b1d5a54f1954ba3d8a0f01c883bc
+      internalID: 64176981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96313add32d09e64ab377110618f726b
+      internalID: 1686143458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda03b12705275488d6e4fe7f70a675
+      internalID: -1008271847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8439d3465fb5ec469dc777dc95e4755
+      internalID: 498143677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1773b049207d14680b1a9b338ecde6
+      internalID: -198309304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c676277fc2e8cc4aa13d9832ca8f745
+      internalID: 756455417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728069fae5f15014ea9055ce2252711c
+      internalID: 1774852897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865cb7a462d0ed44487a28a6fc471ea2
+      internalID: 83249445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0526ef67a96b5846b8cd04a5a72b7d2
+      internalID: -269275954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184558dba2f103c44b9dfc1f19123603
+      internalID: -1040678254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7add5a5ace6264788d854b79a5ebae
+      internalID: -2115071680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d923a57c70a8049bbba848bcedf916
+      internalID: -1235948097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_79
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649112e8367ccda489dd25cb15b4dff2
+      internalID: 1679016204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8590689d084cbe54e9a0d14a8cbf8146
+      internalID: 112383878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_81
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9250b6aa695c45a9bfb291c359e37
+      internalID: -1438868526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524df7b141db55d4788ffc4d8ff99953
+      internalID: -196462202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26511e9227250524ebf5a33dffe582e8
+      internalID: 1243347617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98cff2e08349444b0116f92c35b8ba
+      internalID: 945460664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbad26fca132444a88ee794a5734de3
+      internalID: 365412534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981dc53cb01baf4bba0ba469dfa524b
+      internalID: 1429775710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a56f1ccce34ec44b861ced1b0d9e1d
+      internalID: 1252896851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4dc3c4707b6f34d91a1b9d6c151f01
+      internalID: 517636281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a215b8548512804b80b0925fe25d921
+      internalID: -1208416919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e610a5d2144743b869b6d9ac872b0
+      internalID: 1898571132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b0301ad412624ea22f1aa157d39e1
+      internalID: -1525243733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a768adfe1f0f7a4c8801dfa7c4d2247
+      internalID: -31134261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b2530a5fc11c944b208529ae3a3ff7
+      internalID: -1173874212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d520eeb9984914eb74d6b9191070a5
+      internalID: 1644659844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8638c1ea5d124ab0e4c79d15fd251
+      internalID: -2029677503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e087b2541536c14099c1a5b3c31f572
+      internalID: -1771838572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bbc598a4206394b85a5382a926606e
+      internalID: -2098213939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab03f2a17d351a4fa3d653799dda06a
+      internalID: 1552760338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522d4b7c64b77e44b39b8b09b3faace
+      internalID: -278501278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc4a0219d4a0b4ab31bcad1bfedd4c
+      internalID: -1704590832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_101
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 926
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb33a8b36186144080fe6f2b79e25a2
+      internalID: -362126096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26ea063f90a5e4a975a645e43e9797
+      internalID: -589684407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6552f725d769ee45b233b153740c597
+      internalID: 391068982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f055474da6600479802689c7604441
+      internalID: 1868975674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45add5d050ae0e44788843b806c6ab8b
+      internalID: 328114338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ff2e004a199f46aa358ad943f2543
+      internalID: 428894844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c8efb034adc240aa1a612deb6a009
+      internalID: 1534659473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34994840d2f9aa9439896ef4acc4a04c
+      internalID: 1511399639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a296051c5e6a7c64b99f3c45344a8f02
+      internalID: -1166074557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_110
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6a72b83e426447b149decd71ea5d1
+      internalID: 199509494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525653b9b0b23d54a94e15f0ec30c5a5
+      internalID: -1555774890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b907e7a108a7c4ab8aab23a2cb986c
+      internalID: -1141789015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_113
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a29bba6f307b245b25ce2cfdfa25b3
+      internalID: 1791962173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32465b1c6fc34aa43b001a41a091596f
+      internalID: -707651972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ec63b191c3834fb627edf677b58da
+      internalID: 648370999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_116
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962460ae565e344c991a2512b82dae3
+      internalID: -847601503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ef704180540745827b4b608df7ef5
+      internalID: -517959295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ab9e617d954f459b64e5a8fd27970
+      internalID: 587515285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d896b24d14412439374b13349d7348
+      internalID: -1800233434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aae9108967cf240ae7aa8975ca2410
+      internalID: 1377107136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3aed103a5121847b44741e9ea77643
+      internalID: -117266650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c63dbdf00d74449dbbe41af206935
+      internalID: 1759124646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b46a43f60b4b439de160b7a19abd8
+      internalID: -640877761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f2c6a883561542b576e5bff88493c
+      internalID: 1279165206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df20935ea05ec6542b6df0b37a01ab88
+      internalID: -1649581978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac56096ebf53c2458e4e41a6d101454
+      internalID: -708103827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_127
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3462a1f71f10b4bba8ba557c23f4a2
+      internalID: -889094268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_128
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75d00373c99d54cacd44fc050a5f72
+      internalID: 788939672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_129
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a1dd1141e03641a2197b7b9b51fed
+      internalID: -629221541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_130
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef36c0737256f5242a3505d0577afcb7
+      internalID: 1960301270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_131
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725dd271a5704b4d92cfd62626009a0
+      internalID: -972586515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_132
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb79eb292db453848a4ab639df9fe6b6
+      internalID: -2117524740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf07167014f512439424be2481960d4
+      internalID: -1253292339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9369129bc9ec4fa7b2ddc11a1a32b
+      internalID: 857344162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_135
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dc4f09cbbda9b4290005d1242333b9
+      internalID: -1599587663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8520153e8b76984c9e71c2a155a0186
+      internalID: -692556640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6effa5dff6af28449b3a7231ae8eef2
+      internalID: -381456061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7b3ddbe67c314d9ce101f639fb96f
+      internalID: -1511892233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5cbc3b3585aa48b7237a07e553a4a
+      internalID: -1419335714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366dd3bd77f81f944961f2b95333f048
+      internalID: 842097505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43207b84966463f4bbba9237d104e61e
+      internalID: -3905225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c5ff1ba199aa4ca55b74fa98d23cd
+      internalID: -1695623170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a893d2a5d174c4896dc2a608b0e938
+      internalID: 1700723593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e40dfb39f16944952703540d24226
+      internalID: -881341052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_145
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd15615a2d35144a9edc186c57d9911
+      internalID: -737095135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf143cf17e51434e9f0b77982a28ee6
+      internalID: 1096114994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_147
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b71737ad066f249878c886946c5877
+      internalID: -2119557463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e1914137df7b48b2355a2fa326e29
+      internalID: -1035034336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_149
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37f59d77d0f3b418ffe466130a7cb2
+      internalID: 1971805113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_150
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff89701807de24e9f33dd55f3b41b7
+      internalID: -1721821172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_151
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc6f7fb3d06da449b20571077257716
+      internalID: -1278165241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb284113044b63243af114665cfa2094
+      internalID: 1307856566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942af6c6673de754fac454196219814b
+      internalID: 1849300878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a0c6e195e5b84ea4a83f9eb834e89
+      internalID: -2049772191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14886c72d39489e43bfa3f8e2072c74d
+      internalID: -1135298011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c2cf44a974b446991858404d4f53c
+      internalID: -973803484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd838f1293700534ba551f8e33691147
+      internalID: -110783807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc16c45cc2c4b48a18b5ab4988cb97
+      internalID: -1492675551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a16833d93bc9b4a9ae14c5a120b31d
+      internalID: -1106926700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6100defe026bf44c81ca84b9222ca7f
+      internalID: -2125132915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a363d1ff3bd541b45160a433753ca
+      internalID: 1572971657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_162
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5be616e0167b54fbfa4f69bbbd936d
+      internalID: 1528003816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_163
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366f4aef08eb464b801067b2b50ce33
+      internalID: -1889540654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_164
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9e28d382c34b409ce94d0af2d27e5
+      internalID: 696054725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_165
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f24e48cd1fbf8458e2ea8de00360c6
+      internalID: -1090295768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_166
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d379e20f7d47fd4d99e8e49cf2474b7
+      internalID: -597481953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07601ddd3d1216c4da591ce82c1e8503
+      internalID: 893683424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_168
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b269ef14606f449f2b069f413d797
+      internalID: -2129531365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_169
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5fc7ff1db8c24aa5d046ae9fe83c2
+      internalID: 1465417371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048b740f8d81e3b459046a54d657e9ca
+      internalID: -1398867292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e458c83cbcc9fd48bc8f4dcb5b0113e
+      internalID: 444639403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e2319a1393d54ebd6d111a843074c
+      internalID: 203497312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83474329129b2024c9637408b43988ee
+      internalID: -902552914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_174
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca905b4f25b92e2489549fb25e513c61
+      internalID: -1465546285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80446589ffde6774e8441bb1faebc6c6
+      internalID: -584354738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079edb2bcfebbd428d0d07e8dba7e3a
+      internalID: -927553652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_177
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3b2fc5f40e49418cd4c8fe0799bf3
+      internalID: -25752930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_178
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5388ffc73f9a5f94d987328677f1dc8b
+      internalID: 1244500588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_179
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65509d499d73241940efb4184e2fe3
+      internalID: 109581147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_180
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25cfc2c6f1f334c8509efdc87792b8
+      internalID: -1348915311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_181
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e3f4b53b1faf48a6b3b30dc3920fc
+      internalID: -1856466172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_182
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a557c5c7a3ce749878b34199529cf9
+      internalID: -802214232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_183
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931902427fa8eb64cb4540bc7077df0a
+      internalID: -2069663783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491a7ad94f7599499dc6b3703668cef
+      internalID: -1430301224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_185
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b679747de19ba47a61fafb01bd31c6
+      internalID: -1045428534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_186
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679edb8792b5514196b8981e8a9a85c
+      internalID: -269631020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c27c793f180064592d7f3a9ea9af47
+      internalID: 1286956132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4663f28ed8378429533dcc18f32d9b
+      internalID: 725839931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_189
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c87ec40114f34c8f089652a943a24
+      internalID: 900531439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f772a7aa48224446b1fe3caf2d662eb
+      internalID: -608647739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a699807e2f2994394c93416496b899
+      internalID: 111194253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3381c7bdaae1ba4f98c04b8be079ce0
+      internalID: 1143412833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_193
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7357593061f0eb4ba4ecc083eecb8bf
+      internalID: 1577017794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_194
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f4a19a79697f42887f32ea2a6cdb9
+      internalID: -676249560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_195
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2217ea74ed1081459bc799fbd50fecd
+      internalID: 813912136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_196
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951def4b37663447ab784b5d28419c2
+      internalID: 1573919395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_197
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de4bfc7a595577468820cf506db24c2
+      internalID: -1076095650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_198
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc83697918d1d7641890b6f5a0842461
+      internalID: -2145204779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_199
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a831eb30d499c46beabbcbcc9f170f
+      internalID: 1519091868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_200
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f09b114532c442b5a7e54ee60b61a
+      internalID: -626739764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_201
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e44d1e76b39404ca90c6bd27a7b807
+      internalID: 1043862803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_202
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93fa6654cdc222469b453505630ad36
+      internalID: -1430643571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_203
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d6407e97482c46b7c375de2998d6b
+      internalID: -1950423464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b9fb87983a1b747a249cba8d973aa0
+      internalID: -1934972833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e2eb542ecd974e8bde73687f647a7
+      internalID: 1715265392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705f63adeb4ee74683447ecd7188754
+      internalID: 872667417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_207
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784bbb3abdc9af449a3e9c588b7973c
+      internalID: 1006634346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964427bf54e6b2c4ab5ee67152555c93
+      internalID: 304153031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_209
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdffbec9508437468b54a85a7e6f905
+      internalID: 370162001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_210
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d6a47ff82de7428cd47bba152ab24
+      internalID: -506819927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_211
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bdc137a9ceba74f91c11c668562271
+      internalID: 1685437543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_212
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2432c7d0a61a0294ab423453bafd4c90
+      internalID: 1739967721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_213
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34aeb29956122a45b23030896d7a58d
+      internalID: 564472694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_214
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75de095e6a7c304488e5d711f858996
+      internalID: -1316653097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_215
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b44834374a5cc428c1a10b18ff8f3c
+      internalID: -994984349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_216
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5568980a7cfac4eb305630d02483d4
+      internalID: -1517016432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_217
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf80dfeef60fd40b58aa4b7dd4c001
+      internalID: -1546047969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_218
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c5906edd2b254bb3df59ad6f5c0bd
+      internalID: 830976333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_219
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b020ca072c8e4f9e919cd708b27a9
+      internalID: -358456744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_220
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8297b06b650a36f4c88685f1781b2bce
+      internalID: 315159365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8ccbeeb6841a43842718de81c47d6
+      internalID: -1199919319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d3d394b6933f44bc6e8a5ba205b6c
+      internalID: 379164570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_223
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e134d2b847b78fd4fb0afa782f85f8f5
+      internalID: -1811112957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_224
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a957b4846ec7174e8f9c28c1d0eef62
+      internalID: 481407460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b4b4dc96e7b84dbb559e0b25be3b1
+      internalID: 1161875209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7545e49c6e2cf4cb76dd8734dcef81
+      internalID: -545611542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_227
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0cbb357eb265419e6b0b870f89e35
+      internalID: 1447844258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_228
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7950de553165844adb78065ea05c59
+      internalID: 801693818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_229
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eab0795a0f95d46b01a7878f940a5a
+      internalID: -286811073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_230
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af0fb51a93ff3408b2c6779fabeb93
+      internalID: 1439286741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_231
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd89e51aa0207419e523d4e756d858
+      internalID: 145119397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_232
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ebc36b809b4d408c80b1924b58eb3
+      internalID: -2038069456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_233
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b0ed4237f7ed4787b6650d0aeb6eb
+      internalID: -1116681264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_234
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1e10eaf765d0741acba5d8effd05ef
+      internalID: 1740235967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_235
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1513f15bdddc94cb823c21e802d77c
+      internalID: 514110248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_236
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985cbdf8b651bb4382a067f252813c2
+      internalID: -1208427063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_237
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c3ca787d81724ebf4a1fb1edbfb74
+      internalID: 1457821028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524304251ebfc164391089b69a72af73
+      internalID: -1629361698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_239
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb26da8b2d6b5d4294ddb7cacb5a829
+      internalID: -75802729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8015fbd57d02241bd3434dff96d879
+      internalID: -463639799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_241
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726b9b583ebbc594a89ddc44d44dedbf
+      internalID: -1000476985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117facf03b79db446ae7172013a19d7b
+      internalID: 1526844353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_243
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7950bde4685d5f24a8c71b10173943d3
+      internalID: 1801287446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_244
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45af5b033079e24d81f3d20f94ee3fd
+      internalID: 35769996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_245
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068531d73550844bb6bca5dc51d5956
+      internalID: 2066945684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_246
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62498ba54a93f12488e1a1927644b374
+      internalID: 119532965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_247
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c81531f0a8b3249b218fd6ddbb5264
+      internalID: -1826104148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_248
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cde4621c07d7e4ba29755d9fc733cd
+      internalID: -2099300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_249
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6318bc9e5f414bbe843a53e52ce1a
+      internalID: 676992285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_250
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabcb4b02d31c194ca6ba610b6d22926
+      internalID: 843592659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_251
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd487fb2def5b42879a00d6309b718
+      internalID: 1587295384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_252
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5508f396656b4490eeac018740483
+      internalID: 1571637665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_253
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c62d938e32f548a2a643bb148256a
+      internalID: -1154135433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_254
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27925a6a8024b2542aed9647850685a4
+      internalID: -472621248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085d3c7261e53148b86007d0b7ffc9a
+      internalID: 2106297993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a63e413418ebd4db5ea9e7fbd24cd5
+      internalID: 608824540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_257
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200c782bd7633274ca9ac5304bdf0314
+      internalID: 1647801631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_258
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6021585fc61441a7c8ca24f46239f
+      internalID: 1980299314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_259
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d1cf26b19eb9d47ac89cf4e11d42f4
+      internalID: -1836717677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122fe2fa240de14cb574342ed47da86
+      internalID: 1739521364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_261
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe4e8108dc6c04599f774825cfd38a
+      internalID: 329596436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_262
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c502067f76a347aade6c16544e9e9
+      internalID: -1013622974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_263
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb7efc29eaed3459df2963707f91fd
+      internalID: -1419790345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_264
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff883ee5a41b3847a1f098db434ab37
+      internalID: -1181811859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_265
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70da94044edda84a83fe106f767f7d8
+      internalID: 1781731227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_266
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8334fe72d8b147b657b647aea0862
+      internalID: 1559427591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_267
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33db0d8cf78b8d4c8e25503fe342cba
+      internalID: 323657132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_268
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0fd7cdffa96c45b2e6baadc596f7a
+      internalID: -946102828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_269
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59342e1490be0f741a05020f60cb8069
+      internalID: -604276925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_270
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fdaed8174f52e4dbd7fe57b74d3318
+      internalID: -876558583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_271
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d65fc02f6d6da4db1b60bda8c340b5
+      internalID: -719009938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3941308ceea00ea44999f54c0dc6cdf0
+      internalID: -692955315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_273
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8decfd90af35a74f99331e72c401ff7
+      internalID: -2093220210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_274
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad78dc89143ca942b1750a131e20754
+      internalID: 2022666660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_275
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd580c21efa1b1498cc34fc867db96b
+      internalID: 10066219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_276
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aab6028012c5e489d8082e9595a542
+      internalID: 1305427750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_277
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989beeef0a7251489b871b32c6f60e9
+      internalID: -2032855641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_278
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f9109a443e91d42a27ee3fba641d7c
+      internalID: -782331369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_279
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e1cb31ff32774080d2ab9e1fc9aa2
+      internalID: 253998815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_280
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205191932dc60e458e3c0138d9acad9
+      internalID: -84042170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_281
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543fe9413f0d0c5448821f84a9337d6d
+      internalID: -1113274388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_282
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd213cb167303c43b32b2477725c793
+      internalID: -900985659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_283
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbc8c23690b6e48a5c0784209fd335
+      internalID: 1332070420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_284
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd59e3f8ca7c693418eda1889ee92483
+      internalID: -740982727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_285
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47346109b4e9a43a795a4ce90b57ac
+      internalID: 1113439184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_286
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7845668d051e954ca0d22f6cbb12f34
+      internalID: 1620640977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_287
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2872bc048a50f534b956ff0b085436b8
+      internalID: 1051674845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_288
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eb45b90532d8c449c39bca96b454c5
+      internalID: -1229885340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0da6301620f8e489f8116467340d89
+      internalID: -396776268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c3704955c5f914b8a96054e7b1730d
+      internalID: -1539396051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_291
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f508cc5ec9a678448f3074ee4c28c97
+      internalID: 1204601918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_292
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f2b3fcf8aa9543bd577b41dcaa37e
+      internalID: -682707738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_293
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db381aa5e5437c49bc9da10a5eb942d
+      internalID: -623643366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_294
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd06d17f1a0beb42b19ded4ffecf744
+      internalID: 526429230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_295
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c72529ae234d548a36cc70124fc183
+      internalID: -1960126611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_296
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1a0093879c7a44990a9d9f3d0b1a2a
+      internalID: -746173786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_297
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dfd89ae51b24c4a9afed1ed921659e
+      internalID: 750371790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_298
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c162c4ac9a7a48b897d59b58c979c
+      internalID: 31579434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_299
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aca7baf9bb7184faf749b61e3a942e
+      internalID: -44987867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_300
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce065cfdd96bcf4f82efc79776e382c
+      internalID: -721916143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_301
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec02aa6dab956e4d958c7c2b9939b2a
+      internalID: -1419366348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_302
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea2286d15c85b4091e27201905126d
+      internalID: -1030025976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_303
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ccd0cd89696804f8b295393a363159
+      internalID: -174905207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_304
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e0979aa550de4ea5287d0bc61719a
+      internalID: 1140203141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_305
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792dd1c9d3970bf4793aebca5935b561
+      internalID: 1400008672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_306
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25982b36a60e011459b0c3a152c14a57
+      internalID: 538565236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_307
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3aa8b53cc65bf46890f0fd9aab2e78
+      internalID: 1188816594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_308
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aeaec6bd49ccd4695a62f03d11c24f
+      internalID: 247494441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_309
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc77cd61c90c6741a1b2b877c211dd4
+      internalID: -146814299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_310
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84952f98d6fa5494d9d548479f394ccf
+      internalID: 407848853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_311
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d398b4e993769e14380d9f404aed8f6d
+      internalID: -788756893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_312
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d566c5057007b429f3411326a05208
+      internalID: 1712633919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_313
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbf7a586df729b4cb15c8f1eb79bb27
+      internalID: -1504368236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_314
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bdfb66655ff724483a8d43e6613f67
+      internalID: 1413918887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_315
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d8f08e9f4ac942870072a857dd999
+      internalID: 457704202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_316
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc0f7963f43c34eb0c09e76ab2d5e6
+      internalID: 500271162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_317
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a755f2a10c16a145be5287ddbdfb733
+      internalID: 709066245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_318
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c765751383702a8499e15fa575828230
+      internalID: 770033550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_319
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0880d6146b910d428443876453ee836
+      internalID: 317840902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_320
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f70e88f7a1a264ebfd7785d996c191
+      internalID: -1067627234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_321
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77f40e4568dc8a44b876286effeb7c4
+      internalID: -1487773732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_322
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad72a3588504740a2e80095e5575bc
+      internalID: -1717030192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_backtiles_323
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87103658e2b74a447a6729d80215412b
+      internalID: -696784155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesheet_backtiles_0: -1085089063
+      spritesheet_backtiles_1: 177694436
+      spritesheet_backtiles_10: 2005570297
+      spritesheet_backtiles_100: -1704590832
+      spritesheet_backtiles_101: -362126096
+      spritesheet_backtiles_102: -589684407
+      spritesheet_backtiles_103: 391068982
+      spritesheet_backtiles_104: 1868975674
+      spritesheet_backtiles_105: 328114338
+      spritesheet_backtiles_106: 428894844
+      spritesheet_backtiles_107: 1534659473
+      spritesheet_backtiles_108: 1511399639
+      spritesheet_backtiles_109: -1166074557
+      spritesheet_backtiles_11: 1781181962
+      spritesheet_backtiles_110: 199509494
+      spritesheet_backtiles_111: -1555774890
+      spritesheet_backtiles_112: -1141789015
+      spritesheet_backtiles_113: 1791962173
+      spritesheet_backtiles_114: -707651972
+      spritesheet_backtiles_115: 648370999
+      spritesheet_backtiles_116: -847601503
+      spritesheet_backtiles_117: -517959295
+      spritesheet_backtiles_118: 587515285
+      spritesheet_backtiles_119: -1800233434
+      spritesheet_backtiles_12: -402803092
+      spritesheet_backtiles_120: 1377107136
+      spritesheet_backtiles_121: -117266650
+      spritesheet_backtiles_122: 1759124646
+      spritesheet_backtiles_123: -640877761
+      spritesheet_backtiles_124: 1279165206
+      spritesheet_backtiles_125: -1649581978
+      spritesheet_backtiles_126: -708103827
+      spritesheet_backtiles_127: -889094268
+      spritesheet_backtiles_128: 788939672
+      spritesheet_backtiles_129: -629221541
+      spritesheet_backtiles_13: -1140794429
+      spritesheet_backtiles_130: 1960301270
+      spritesheet_backtiles_131: -972586515
+      spritesheet_backtiles_132: -2117524740
+      spritesheet_backtiles_133: -1253292339
+      spritesheet_backtiles_134: 857344162
+      spritesheet_backtiles_135: -1599587663
+      spritesheet_backtiles_136: -692556640
+      spritesheet_backtiles_137: -381456061
+      spritesheet_backtiles_138: -1511892233
+      spritesheet_backtiles_139: -1419335714
+      spritesheet_backtiles_14: -1782201410
+      spritesheet_backtiles_140: 842097505
+      spritesheet_backtiles_141: -3905225
+      spritesheet_backtiles_142: -1695623170
+      spritesheet_backtiles_143: 1700723593
+      spritesheet_backtiles_144: -881341052
+      spritesheet_backtiles_145: -737095135
+      spritesheet_backtiles_146: 1096114994
+      spritesheet_backtiles_147: -2119557463
+      spritesheet_backtiles_148: -1035034336
+      spritesheet_backtiles_149: 1971805113
+      spritesheet_backtiles_15: -883508507
+      spritesheet_backtiles_150: -1721821172
+      spritesheet_backtiles_151: -1278165241
+      spritesheet_backtiles_152: 1307856566
+      spritesheet_backtiles_153: 1849300878
+      spritesheet_backtiles_154: -2049772191
+      spritesheet_backtiles_155: -1135298011
+      spritesheet_backtiles_156: -973803484
+      spritesheet_backtiles_157: -110783807
+      spritesheet_backtiles_158: -1492675551
+      spritesheet_backtiles_159: -1106926700
+      spritesheet_backtiles_16: -899392704
+      spritesheet_backtiles_160: -2125132915
+      spritesheet_backtiles_161: 1572971657
+      spritesheet_backtiles_162: 1528003816
+      spritesheet_backtiles_163: -1889540654
+      spritesheet_backtiles_164: 696054725
+      spritesheet_backtiles_165: -1090295768
+      spritesheet_backtiles_166: -597481953
+      spritesheet_backtiles_167: 893683424
+      spritesheet_backtiles_168: -2129531365
+      spritesheet_backtiles_169: 1465417371
+      spritesheet_backtiles_17: 1502961552
+      spritesheet_backtiles_170: -1398867292
+      spritesheet_backtiles_171: 444639403
+      spritesheet_backtiles_172: 203497312
+      spritesheet_backtiles_173: -902552914
+      spritesheet_backtiles_174: -1465546285
+      spritesheet_backtiles_175: -584354738
+      spritesheet_backtiles_176: -927553652
+      spritesheet_backtiles_177: -25752930
+      spritesheet_backtiles_178: 1244500588
+      spritesheet_backtiles_179: 109581147
+      spritesheet_backtiles_18: -971432567
+      spritesheet_backtiles_180: -1348915311
+      spritesheet_backtiles_181: -1856466172
+      spritesheet_backtiles_182: -802214232
+      spritesheet_backtiles_183: -2069663783
+      spritesheet_backtiles_184: -1430301224
+      spritesheet_backtiles_185: -1045428534
+      spritesheet_backtiles_186: -269631020
+      spritesheet_backtiles_187: 1286956132
+      spritesheet_backtiles_188: 725839931
+      spritesheet_backtiles_189: 900531439
+      spritesheet_backtiles_19: -387420088
+      spritesheet_backtiles_190: -608647739
+      spritesheet_backtiles_191: 111194253
+      spritesheet_backtiles_192: 1143412833
+      spritesheet_backtiles_193: 1577017794
+      spritesheet_backtiles_194: -676249560
+      spritesheet_backtiles_195: 813912136
+      spritesheet_backtiles_196: 1573919395
+      spritesheet_backtiles_197: -1076095650
+      spritesheet_backtiles_198: -2145204779
+      spritesheet_backtiles_199: 1519091868
+      spritesheet_backtiles_2: 357441480
+      spritesheet_backtiles_20: -766367296
+      spritesheet_backtiles_200: -626739764
+      spritesheet_backtiles_201: 1043862803
+      spritesheet_backtiles_202: -1430643571
+      spritesheet_backtiles_203: -1950423464
+      spritesheet_backtiles_204: -1934972833
+      spritesheet_backtiles_205: 1715265392
+      spritesheet_backtiles_206: 872667417
+      spritesheet_backtiles_207: 1006634346
+      spritesheet_backtiles_208: 304153031
+      spritesheet_backtiles_209: 370162001
+      spritesheet_backtiles_21: -1115798280
+      spritesheet_backtiles_210: -506819927
+      spritesheet_backtiles_211: 1685437543
+      spritesheet_backtiles_212: 1739967721
+      spritesheet_backtiles_213: 564472694
+      spritesheet_backtiles_214: -1316653097
+      spritesheet_backtiles_215: -994984349
+      spritesheet_backtiles_216: -1517016432
+      spritesheet_backtiles_217: -1546047969
+      spritesheet_backtiles_218: 830976333
+      spritesheet_backtiles_219: -358456744
+      spritesheet_backtiles_22: -539332789
+      spritesheet_backtiles_220: 315159365
+      spritesheet_backtiles_221: -1199919319
+      spritesheet_backtiles_222: 379164570
+      spritesheet_backtiles_223: -1811112957
+      spritesheet_backtiles_224: 481407460
+      spritesheet_backtiles_225: 1161875209
+      spritesheet_backtiles_226: -545611542
+      spritesheet_backtiles_227: 1447844258
+      spritesheet_backtiles_228: 801693818
+      spritesheet_backtiles_229: -286811073
+      spritesheet_backtiles_23: 339102453
+      spritesheet_backtiles_230: 1439286741
+      spritesheet_backtiles_231: 145119397
+      spritesheet_backtiles_232: -2038069456
+      spritesheet_backtiles_233: -1116681264
+      spritesheet_backtiles_234: 1740235967
+      spritesheet_backtiles_235: 514110248
+      spritesheet_backtiles_236: -1208427063
+      spritesheet_backtiles_237: 1457821028
+      spritesheet_backtiles_238: -1629361698
+      spritesheet_backtiles_239: -75802729
+      spritesheet_backtiles_24: 1591583212
+      spritesheet_backtiles_240: -463639799
+      spritesheet_backtiles_241: -1000476985
+      spritesheet_backtiles_242: 1526844353
+      spritesheet_backtiles_243: 1801287446
+      spritesheet_backtiles_244: 35769996
+      spritesheet_backtiles_245: 2066945684
+      spritesheet_backtiles_246: 119532965
+      spritesheet_backtiles_247: -1826104148
+      spritesheet_backtiles_248: -2099300520
+      spritesheet_backtiles_249: 676992285
+      spritesheet_backtiles_25: 2123934930
+      spritesheet_backtiles_250: 843592659
+      spritesheet_backtiles_251: 1587295384
+      spritesheet_backtiles_252: 1571637665
+      spritesheet_backtiles_253: -1154135433
+      spritesheet_backtiles_254: -472621248
+      spritesheet_backtiles_255: 2106297993
+      spritesheet_backtiles_256: 608824540
+      spritesheet_backtiles_257: 1647801631
+      spritesheet_backtiles_258: 1980299314
+      spritesheet_backtiles_259: -1836717677
+      spritesheet_backtiles_26: -763747529
+      spritesheet_backtiles_260: 1739521364
+      spritesheet_backtiles_261: 329596436
+      spritesheet_backtiles_262: -1013622974
+      spritesheet_backtiles_263: -1419790345
+      spritesheet_backtiles_264: -1181811859
+      spritesheet_backtiles_265: 1781731227
+      spritesheet_backtiles_266: 1559427591
+      spritesheet_backtiles_267: 323657132
+      spritesheet_backtiles_268: -946102828
+      spritesheet_backtiles_269: -604276925
+      spritesheet_backtiles_27: 2077477525
+      spritesheet_backtiles_270: -876558583
+      spritesheet_backtiles_271: -719009938
+      spritesheet_backtiles_272: -692955315
+      spritesheet_backtiles_273: -2093220210
+      spritesheet_backtiles_274: 2022666660
+      spritesheet_backtiles_275: 10066219
+      spritesheet_backtiles_276: 1305427750
+      spritesheet_backtiles_277: -2032855641
+      spritesheet_backtiles_278: -782331369
+      spritesheet_backtiles_279: 253998815
+      spritesheet_backtiles_28: -132458203
+      spritesheet_backtiles_280: -84042170
+      spritesheet_backtiles_281: -1113274388
+      spritesheet_backtiles_282: -900985659
+      spritesheet_backtiles_283: 1332070420
+      spritesheet_backtiles_284: -740982727
+      spritesheet_backtiles_285: 1113439184
+      spritesheet_backtiles_286: 1620640977
+      spritesheet_backtiles_287: 1051674845
+      spritesheet_backtiles_288: -1229885340
+      spritesheet_backtiles_289: -396776268
+      spritesheet_backtiles_29: 699106917
+      spritesheet_backtiles_290: -1539396051
+      spritesheet_backtiles_291: 1204601918
+      spritesheet_backtiles_292: -682707738
+      spritesheet_backtiles_293: -623643366
+      spritesheet_backtiles_294: 526429230
+      spritesheet_backtiles_295: -1960126611
+      spritesheet_backtiles_296: -746173786
+      spritesheet_backtiles_297: 750371790
+      spritesheet_backtiles_298: 31579434
+      spritesheet_backtiles_299: -44987867
+      spritesheet_backtiles_3: 85136129
+      spritesheet_backtiles_30: -1351488432
+      spritesheet_backtiles_300: -721916143
+      spritesheet_backtiles_301: -1419366348
+      spritesheet_backtiles_302: -1030025976
+      spritesheet_backtiles_303: -174905207
+      spritesheet_backtiles_304: 1140203141
+      spritesheet_backtiles_305: 1400008672
+      spritesheet_backtiles_306: 538565236
+      spritesheet_backtiles_307: 1188816594
+      spritesheet_backtiles_308: 247494441
+      spritesheet_backtiles_309: -146814299
+      spritesheet_backtiles_31: 846146168
+      spritesheet_backtiles_310: 407848853
+      spritesheet_backtiles_311: -788756893
+      spritesheet_backtiles_312: 1712633919
+      spritesheet_backtiles_313: -1504368236
+      spritesheet_backtiles_314: 1413918887
+      spritesheet_backtiles_315: 457704202
+      spritesheet_backtiles_316: 500271162
+      spritesheet_backtiles_317: 709066245
+      spritesheet_backtiles_318: 770033550
+      spritesheet_backtiles_319: 317840902
+      spritesheet_backtiles_32: -269830702
+      spritesheet_backtiles_320: -1067627234
+      spritesheet_backtiles_321: -1487773732
+      spritesheet_backtiles_322: -1717030192
+      spritesheet_backtiles_323: -696784155
+      spritesheet_backtiles_33: 2162483
+      spritesheet_backtiles_34: -794280866
+      spritesheet_backtiles_35: 1242633839
+      spritesheet_backtiles_36: 1947249029
+      spritesheet_backtiles_37: 817041920
+      spritesheet_backtiles_38: 1430107561
+      spritesheet_backtiles_39: -1325224847
+      spritesheet_backtiles_4: -1210301334
+      spritesheet_backtiles_40: 789750741
+      spritesheet_backtiles_41: -1383346678
+      spritesheet_backtiles_42: 834153329
+      spritesheet_backtiles_43: -1939346496
+      spritesheet_backtiles_44: -1001786363
+      spritesheet_backtiles_45: 1535278593
+      spritesheet_backtiles_46: -810159904
+      spritesheet_backtiles_47: -2140819988
+      spritesheet_backtiles_48: -966893234
+      spritesheet_backtiles_49: -437374685
+      spritesheet_backtiles_5: -10312948
+      spritesheet_backtiles_50: 125936453
+      spritesheet_backtiles_51: 973168460
+      spritesheet_backtiles_52: 301703705
+      spritesheet_backtiles_53: 635649276
+      spritesheet_backtiles_54: -252006180
+      spritesheet_backtiles_55: -1659332696
+      spritesheet_backtiles_56: -102413167
+      spritesheet_backtiles_57: -1583986554
+      spritesheet_backtiles_58: 62129981
+      spritesheet_backtiles_59: -1334646283
+      spritesheet_backtiles_6: -980098365
+      spritesheet_backtiles_60: 1337349223
+      spritesheet_backtiles_61: 1723812466
+      spritesheet_backtiles_62: -588799859
+      spritesheet_backtiles_63: -237082184
+      spritesheet_backtiles_64: 2038027757
+      spritesheet_backtiles_65: 1235003900
+      spritesheet_backtiles_66: -1806101859
+      spritesheet_backtiles_67: 64176981
+      spritesheet_backtiles_68: 1686143458
+      spritesheet_backtiles_69: -1008271847
+      spritesheet_backtiles_7: 1864744141
+      spritesheet_backtiles_70: 498143677
+      spritesheet_backtiles_71: -198309304
+      spritesheet_backtiles_72: 756455417
+      spritesheet_backtiles_73: 1774852897
+      spritesheet_backtiles_74: 83249445
+      spritesheet_backtiles_75: -269275954
+      spritesheet_backtiles_76: -1040678254
+      spritesheet_backtiles_77: -2115071680
+      spritesheet_backtiles_78: -1235948097
+      spritesheet_backtiles_79: 1679016204
+      spritesheet_backtiles_8: 365705107
+      spritesheet_backtiles_80: 112383878
+      spritesheet_backtiles_81: -1438868526
+      spritesheet_backtiles_82: -196462202
+      spritesheet_backtiles_83: 1243347617
+      spritesheet_backtiles_84: 945460664
+      spritesheet_backtiles_85: 365412534
+      spritesheet_backtiles_86: 1429775710
+      spritesheet_backtiles_87: 1252896851
+      spritesheet_backtiles_88: 517636281
+      spritesheet_backtiles_89: -1208416919
+      spritesheet_backtiles_9: 2002351414
+      spritesheet_backtiles_90: 1898571132
+      spritesheet_backtiles_91: -1525243733
+      spritesheet_backtiles_92: -31134261
+      spritesheet_backtiles_93: -1173874212
+      spritesheet_backtiles_94: 1644659844
+      spritesheet_backtiles_95: -2029677503
+      spritesheet_backtiles_96: -1771838572
+      spritesheet_backtiles_97: -2098213939
+      spritesheet_backtiles_98: 1552760338
+      spritesheet_backtiles_99: -278501278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

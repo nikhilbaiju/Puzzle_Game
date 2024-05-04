@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 1a627b759bd5b7b43a506ad3e76e8b00
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: curve pipe filled
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 929
+        width: 178
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d74d13ea47c140a43de2754bd65d2
+      internalID: -840310240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4s pipe empty
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 234
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249703ea077264040b2c2f744c650a45
+      internalID: -1244838994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3s pipe empty
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 234
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc97961f43336943b9de0ac0d8d987f
+      internalID: -1795822630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3s pipe filled
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1234
+        width: 233
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5379eee3b753ea4ca1059bfc85af699
+      internalID: 177212981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curve pipe empty
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 345
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79278f662e74044906bd0c47006fca
+      internalID: 1670494623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4s pipe filled
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 234
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ca96ddb8f28247be9e377d99ab3bf
+      internalID: 995278942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: straight pipe empty
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 234
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f7ebc2994fa740bd8261d1f5d4ba6
+      internalID: -1295117252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: straight pipe filled
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 38
+        width: 234
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd9acfbfad9cc4291ea6cff7468613
+      internalID: -162477884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3s pipe empty: -1795822630
+      3s pipe filled: 177212981
+      4s pipe empty: -1244838994
+      4s pipe filled: 995278942
+      curve pipe empty: 1670494623
+      curve pipe filled: -840310240
+      spritesheet_pipes_0: -84909630
+      spritesheet_pipes_1: -96897102
+      spritesheet_pipes_10: -1421642491
+      spritesheet_pipes_11: 478624013
+      spritesheet_pipes_12: -286408479
+      spritesheet_pipes_13: -1035822028
+      spritesheet_pipes_14: -1070819635
+      spritesheet_pipes_15: 863052594
+      spritesheet_pipes_16: -1260319840
+      spritesheet_pipes_17: -1546804872
+      spritesheet_pipes_18: -1683262993
+      spritesheet_pipes_19: 1189362421
+      spritesheet_pipes_2: -36185996
+      spritesheet_pipes_20: 1924072815
+      spritesheet_pipes_21: 1517065156
+      spritesheet_pipes_22: 1933319361
+      spritesheet_pipes_23: 2010210197
+      spritesheet_pipes_24: -1506151158
+      spritesheet_pipes_25: -2069000720
+      spritesheet_pipes_27: -1029092054
+      spritesheet_pipes_29: -612715058
+      spritesheet_pipes_3: 1735795713
+      spritesheet_pipes_30: 1430178793
+      spritesheet_pipes_31: -1055388050
+      spritesheet_pipes_32: -1740363356
+      spritesheet_pipes_33: 1779303755
+      spritesheet_pipes_34: -185285911
+      spritesheet_pipes_36: 1750954577
+      spritesheet_pipes_37: 1759160340
+      spritesheet_pipes_38: 1632905313
+      spritesheet_pipes_39: -1061155379
+      spritesheet_pipes_40: 901543017
+      spritesheet_pipes_41: -338468311
+      spritesheet_pipes_42: -1862950748
+      spritesheet_pipes_44: -424067843
+      spritesheet_pipes_46: 1206010360
+      spritesheet_pipes_47: 2128259136
+      spritesheet_pipes_48: 1306566257
+      spritesheet_pipes_5: 1052454669
+      spritesheet_pipes_50: -1389275303
+      spritesheet_pipes_51: 270369689
+      spritesheet_pipes_52: 390760106
+      spritesheet_pipes_53: 2119641117
+      spritesheet_pipes_54: -1352416309
+      spritesheet_pipes_55: -900720359
+      spritesheet_pipes_58: 658817304
+      spritesheet_pipes_59: 1890170789
+      spritesheet_pipes_6: 855249078
+      spritesheet_pipes_60: 1976514628
+      spritesheet_pipes_61: -1833611791
+      spritesheet_pipes_62: 1268461448
+      spritesheet_pipes_7: -722326632
+      spritesheet_pipes_8: 1141305889
+      spritesheet_pipes_9: 1293792347
+      straight pipe empty: -1295117252
+      straight pipe filled: -162477884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
