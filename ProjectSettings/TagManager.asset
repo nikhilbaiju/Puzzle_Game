@@ -9,6 +9,7 @@ TagManager:
   - filled pipe
   - background
   - end pipe
+  - start pipe
   layers:
   - Default
   - TransparentFX

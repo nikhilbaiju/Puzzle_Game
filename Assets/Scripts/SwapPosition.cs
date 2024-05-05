@@ -65,6 +65,16 @@ public class SwapPosition : MonoBehaviour
                     Debug.Log("Outside");
                     this.transform.position = initialPosition;
                 }
+                else if (hit.collider != null && hit.collider.CompareTag("start pipe") && hit.collider.gameObject != gameObject)
+                {
+                    Debug.Log("Outside");
+                    this.transform.position = initialPosition;
+                }
+                else if (hit.collider != null && hit.collider.CompareTag("end pipe") && hit.collider.gameObject != gameObject)
+                {
+                    Debug.Log("Outside");
+                    this.transform.position = initialPosition;
+                }
             }
                
             
