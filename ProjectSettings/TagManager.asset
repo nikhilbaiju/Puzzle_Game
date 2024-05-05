@@ -7,11 +7,13 @@ TagManager:
   - Tile
   - Empty pipe
   - filled pipe
+  - background
+  - end pipe
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - pipe
   - Water
   - UI
   - 
@@ -43,4 +45,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 1103222155
+    locked: 0
+  - name: empty pipe
+    uniqueID: 1827293057
+    locked: 0
+  - name: filled pipe
+    uniqueID: 3511087445
     locked: 0

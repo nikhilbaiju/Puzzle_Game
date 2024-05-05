@@ -1,24 +1,20 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class SwapPosition : MonoBehaviour
 {
     public Vector3 initialPosition;
-    SwapPosition otherSprite;
     private Vector3 offset;
+
+    SwapPosition otherSprite;
+
     private bool isDragging = false;
-
-    public Camera mainCamera;
-
     
 
 
     void Start()
     {
         initialPosition = transform.position;
-
-        mainCamera = Camera.main;
         
     }
 
@@ -36,14 +32,8 @@ public class SwapPosition : MonoBehaviour
     {
         if (isDragging)
         {
-            // Check if we released the mouse over another sprite
-            // RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero,Mathf.Infinity,layerMask);
-            //RaycastHit2D hit = Physics2D.Raycast(mainCamera.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, Mathf.NegativeInfinity);
-
+          
             Vector2 raycastOrigin = transform.position;
-
-            // Perform the hit test with a raycast from the object's position
-            //RaycastHit2D hit = Physics2D.Raycast(raycastOrigin, Vector2.zero,Mathf.Infinity);
 
             Vector2 boxSize = new Vector2(0.5f, 0.5f); // Adjust the size of the box as needed
 
@@ -51,7 +41,7 @@ public class SwapPosition : MonoBehaviour
 
             foreach (var hit in hits)
             {
-                if (hit.collider != null && hit.collider.CompareTag("Tile") && hit.collider.gameObject != gameObject)
+                if (hit.collider != null && hit.collider.CompareTag("Tile") && !hit.collider.CompareTag("background") && hit.collider.gameObject != gameObject)
                 {
                     Debug.Log("hit");
                     // Get the SpriteController component of the collided object
@@ -70,9 +60,10 @@ public class SwapPosition : MonoBehaviour
                     StartCoroutine(ChangeInitialPosition());
 
                 }
-                if (hit.collider != null)
+                else if(hit.collider != null && hit.collider.CompareTag("background") && hit.collider.gameObject != gameObject)
                 {
-                    Debug.Log(hit.collider.name);
+                    Debug.Log("Outside");
+                    this.transform.position = initialPosition;
                 }
             }
                
