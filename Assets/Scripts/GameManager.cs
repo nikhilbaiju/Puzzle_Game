@@ -31,64 +31,7 @@ public class GameManager : MonoBehaviour
         GameEvent.OnActive_Win -= ActiveWinPanel;
     }
 
-    void Update()
-    {
-        if (Input.GetKey(KeyCode.Escape))
-        {
-            ActivePausePanel();
-        }
-
-
-    }
-
-    public void Resume()
-    {
-
-        pausePanel.SetActive(false);
-        Time.timeScale = 1;
-    }
-
-    public void MainMenu()
-    {
-        SceneManager.LoadScene("Main Menu");
-    }
-
-    public void Restart()
-    {
-        Debug.Log("Restart");
-        if (Time.timeScale != 1)
-        {
-            Time.timeScale = 1;
-        }
-        string currentSceneName = SceneManager.GetActiveScene().name;
-
-        // Load the current scene again
-        SceneManager.LoadScene(currentSceneName);
-    }
-
-    public void NextLevel()
-    {
-        if (Time.timeScale != 1)
-        {
-            Time.timeScale = 1;
-        }
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-
-        count++;
-
-        Debug.Log(count);
-    }
-
-    public void OnApplicationQuit()
-    {
-        Application.Quit();
-    }
-
-    /*************************************/
-
-    
-
-    //Active Pause
+    //------------Panel Activation------------------------------
     public void ActivePausePanel()
     {
         Time.timeScale = 0;
@@ -107,4 +50,86 @@ public class GameManager : MonoBehaviour
         gameOver.SetActive(true);
     }
 
+    void Update()
+    {
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            ActivePausePanel();
+        }
+
+
+    }
+
+    //--------------Level Manager-----------------
+    public void Resume()
+    {
+        PlayButtonMusic();
+
+        pausePanel.SetActive(false);
+        Time.timeScale = 1;
+    }
+
+    public void MainMenu()
+    {
+        PlayButtonMusic();
+        SceneManager.LoadScene("Main Menu");
+        PlayMainMenuMusic();
+    }
+
+    public void Restart()
+    {
+        PlayButtonMusic();
+        Debug.Log("Restart");
+        if (Time.timeScale != 1)
+        {
+            Time.timeScale = 1;
+        }
+        string currentSceneName = SceneManager.GetActiveScene().name;
+
+        // Load the current scene again
+        SceneManager.LoadScene(currentSceneName);
+        PlayLevelMusic();
+    }
+
+    public void NextLevel()
+    {
+        PlayButtonMusic();
+        if (Time.timeScale != 1)
+        {
+            Time.timeScale = 1;
+        }
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
+        AudioManager.Instance.PlayLevelMusic();
+
+        count++;
+
+        Debug.Log(count);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
+
+    //---------------------Audio Control----------------
+    public void PlayLevelMusic()
+    {
+        AudioManager.Instance.PlayLevelMusic();
+    }
+
+    public void PlayMainMenuMusic()
+    {
+        AudioManager.Instance.PlayMainMenuMusic();
+    }
+
+    public void PlayButtonMusic()
+    {
+        AudioManager.Instance.PlayButtonPressSound();
+    }
+
+    public void PlayTileChangeMusic()
+    {
+        AudioManager.Instance.PlayTileChangeSound();
+    }
 }

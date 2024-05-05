@@ -43,6 +43,7 @@ public class SwapPosition : MonoBehaviour
             {
                 if (hit.collider != null && hit.collider.CompareTag("Tile") && !hit.collider.CompareTag("background") && hit.collider.gameObject != gameObject)
                 {
+                    AudioManager.Instance.PlayTileChangeSound();
                     Debug.Log("hit");
                     // Get the SpriteController component of the collided object
                     otherSprite = hit.collider.gameObject.GetComponent<SwapPosition>();
